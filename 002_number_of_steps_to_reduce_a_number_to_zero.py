@@ -15,3 +15,7 @@ class Solution:
     #         return num_i/2
     #     elif mod(num_i,2) == 1:
     #         return num_i-1
+
+    # 可读性 0 
+    # 空间复杂度 1个int
+    # 时间复杂度
